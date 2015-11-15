@@ -1,0 +1,14 @@
+{
+  "name": "language-gmsh",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for Gmsh .geo files in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/language-gmsh",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
